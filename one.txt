@@ -1,1 +1,2 @@
 Hello, Learning git
+Now adding some plain text hi , lets write some thing , BHARAT MATA KI JAI
